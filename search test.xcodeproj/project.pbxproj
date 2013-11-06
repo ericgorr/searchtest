@@ -18,6 +18,7 @@
 		B74756D01829D93500DA1244 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B74756AF1829D93500DA1244 /* Cocoa.framework */; };
 		B74756D81829D93500DA1244 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B74756D61829D93500DA1244 /* InfoPlist.strings */; };
 		B74756DA1829D93500DA1244 /* search_testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B74756D91829D93500DA1244 /* search_testTests.m */; };
+		B74756E41829D9CB00DA1244 /* message.emlx in Resources */ = {isa = PBXBuildFile; fileRef = B74756E31829D9CB00DA1244 /* message.emlx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		B74756D51829D93500DA1244 /* search testTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "search testTests-Info.plist"; sourceTree = "<group>"; };
 		B74756D71829D93500DA1244 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B74756D91829D93500DA1244 /* search_testTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = search_testTests.m; sourceTree = "<group>"; };
+		B74756E31829D9CB00DA1244 /* message.emlx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = message.emlx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 		B74756B61829D93500DA1244 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B74756E31829D9CB00DA1244 /* message.emlx */,
 				B74756B71829D93500DA1244 /* search test-Info.plist */,
 				B74756B81829D93500DA1244 /* InfoPlist.strings */,
 				B74756BB1829D93500DA1244 /* main.m */,
@@ -235,6 +238,7 @@
 				B74756C81829D93500DA1244 /* Images.xcassets in Resources */,
 				B74756C01829D93500DA1244 /* Credits.rtf in Resources */,
 				B74756C61829D93500DA1244 /* MainMenu.xib in Resources */,
+				B74756E41829D9CB00DA1244 /* message.emlx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
